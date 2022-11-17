@@ -23,9 +23,5 @@ for(let prop in fortunes){
             myFortune.push(`You should ${fortunes[prop][fortuneGen]}`)
         break
     }
-    
 }
 console.log(myFortune);
-
-
- 
